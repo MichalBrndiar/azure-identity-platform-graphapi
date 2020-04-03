@@ -7,7 +7,7 @@ Demonstrates invocation of GraphAPI from Web API secured by Azure Active Directo
 | -------------- | ----------------------------------------------------------- |
 | src/Client.Console | Console application calling AAD protected Web API via Microsoft.Identity.Client    
 | src/WebAPI    | Protected Web API that in turn invokes Graph API on behalf of itself (application) 
-| src/Microsoft.Identity.Web    | Enhancements for web over Microsoft.Idenitity.Client
+| src/Microsoft.Identity.Web    | Enhancements for web over Microsoft.Identity.Client
 
 
 ## Various links
