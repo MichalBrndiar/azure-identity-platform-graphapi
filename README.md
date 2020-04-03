@@ -11,9 +11,17 @@ Demonstrates invocation of GraphAPI from Web API secured by Azure Active Directo
 
 
 ## Various links
-[https://docs.microsoft.com/en-us/azure/active-directory/develop/](Microsoft identity platform documentation)
+[Microsoft identity platform documentation](https://docs.microsoft.com/en-us/azure/active-directory/develop/)
 
-[https://github.com/Azure-Samples/active-directory-dotnet-native-aspnetcore-v2](Original github repo this solution is based on)
+[Original github repo this solution is based on](https://github.com/Azure-Samples/active-directory-dotnet-native-aspnetcore-v2)
 
-[https://github.com/AzureAD/microsoft-identity-web](Microsoft.Identity.Web repo)
+[Microsoft.Identity.Web repo](https://github.com/AzureAD/microsoft-identity-web)
+
+## Hint
+
+Project contains submodule, so use following git command to fetch all.
+
+```shell
+git clone --recurse-submodules  https://github.com/MichalBrndiar/azure-identity-platform-graphapi.git
+```
 
