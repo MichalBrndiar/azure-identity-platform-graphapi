@@ -1,0 +1,20 @@
+{
+	"Logging": {
+		"LogLevel": {
+			"Default": "Debug",
+			"Microsoft": "Debug",
+			"Microsoft.Hosting.Lifetime": "Debug"
+		}
+	},
+	"AllowedHosts": "*",
+	"AzureAd": {
+		"Instance": "https://login.microsoftonline.com/",
+		"Domain": "mbrndiar.onmicrosoft.com",
+		"TenantId": "78e36bd3-a5af-4844-a1e8-3910eada9b32",
+		"ClientId": "73c983c9-46be-4b86-98b4-03fa53273178",
+		"ClientSecret": "wkwf=aijC@V:Nfa=1FZS4M72VLlOv7Py",
+		"Scopes": [
+			"api://73c983c9-46be-4b86-98b4-03fa53273178/.default"
+		]
+	}
+}

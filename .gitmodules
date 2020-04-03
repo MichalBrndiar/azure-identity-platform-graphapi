@@ -1,0 +1,3 @@
+[submodule "src/Microsoft.Identity.Web"]
+	path = src/Microsoft.Identity.Web
+	url = https://github.com/AzureAD/microsoft-identity-web
